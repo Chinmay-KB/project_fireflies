@@ -1,2 +1,2 @@
 # project_fireflies
-Fireflies roaming around!
+This repo is now to be used to test probot app
